@@ -13,11 +13,11 @@ Para isso, foram disponibilizados dois arquivos ***Json.***
 
 um arquivo de metadados com as informações dos itens:
 
-![Untitled](Assignment%2020%20496e7cfa3c9840d4bf889f0055bdb44a/Untitled.png)
+![Metadados](datasets/json1.png)
 
 e outro com as avaliações de usuários:
 
-![Untitled](Assignment%2020%20496e7cfa3c9840d4bf889f0055bdb44a/Untitled%201.png)
+![Reviews](datasets/json2.png)
 
 ## O PROJETO
 
